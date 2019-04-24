@@ -1,4 +1,8 @@
 
+
+
+
+
 first time insert;
 
 11111111111111
@@ -11,5 +15,12 @@ first time insert;
 444444444444
 --------------
 5555555555555
+
+
+-----------
+creating a new branch is quick
+
+
+
 
 
