@@ -9,11 +9,12 @@ git_test1
 777777
 888888
 999999
-<<<<<<< .mine
+999999
 111111
 rrrrrrr
-=======
-111111
 ppppp
 >>>>>>> .theirs
 rrrr
+Î¢ÈíÎ¢ÈíÎ¢Èí
+eeeeeeeeeee
+
