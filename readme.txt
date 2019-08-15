@@ -13,8 +13,8 @@ git_test1
 111111
 rrrrrrr
 ppppp
->>>>>>> .theirs
 rrrr
 Î¢ÈíÎ¢ÈíÎ¢Èí
 eeeeeeeeeee
+ppppppppp
 
